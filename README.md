@@ -27,9 +27,31 @@ The project is open in your Xcode
 
 Built With
 
-Alamofire - Used to interact with the server
+JVFloatLabeledTextField
+
+Firebase/Core
+
+Firebase/Database
+
+Firebase/Auth
+
+InstantSearch
+
+Alamofire
+
+SwiftyJSON
+
+AlamofireImage
+
+FBSDKCoreKit
+
+FBSDKShareKit
+
+Cosmos
+
+
 SwiftyJSON - Used to deal easily with the JSON data
-Moltin - Used for some comfortable functions
+
 
 Authors
 
